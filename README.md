@@ -25,5 +25,5 @@ HTMLの練習
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d6484.93389475073!2d139.61443657763823!3d35.64086549714765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sja!2sjp!4v1747451964025!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <h3>You Tubeの埋め込み</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KGCef-qBIxg?si=Wnc2Z_X9bOUHjDsR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-![嘘だろ](https://github.com/user-attachments/assets/785ecbcf-854c-4ff7-8741-bb0a9f26694f)
 </html>
+![嘘だろ](https://github.com/user-attachments/assets/785ecbcf-854c-4ff7-8741-bb0a9f26694f)
